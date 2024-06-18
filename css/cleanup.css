@@ -1,1 +1,12 @@
-/* write your override styles here */
+*{background-color: #fff0ff;}
+#class{display: none;}
+.tag-1{display: none;}
+#tag-2{display: none;}
+#tag-3{display: none;}
+.tab-4{display: none;}
+#tag-5{align-self: flex-end;}
+#parent{background-color: #fff0ff;}
+.class{color: #fd50;}
+#tag-6{border-radius: 59px;}
+.slick{color: mediumvioletred;}
+#class{display: none;}
